@@ -24,7 +24,7 @@ I will be glad to listen any constructive feedback. Please, send an email to me:
 
 MIT © 2018
 
-# Design credits
+
 
 
 
