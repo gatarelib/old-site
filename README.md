@@ -26,5 +26,5 @@ MIT © 2018
 
 # Design credits
 
-Ethereal by HTML5 UP
-html5up.net | @ajlkn
+
+
