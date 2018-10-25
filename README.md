@@ -10,7 +10,7 @@ Clone the repository and move to the project folder.
 
 ## Using
 
-If you have live-server, execute the program at the project folder or go to the link provided at the top.
+If you are the cool guy, just execute the program at the project folder or go to the link provided at the top.
 
 ## Problems
 
