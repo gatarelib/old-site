@@ -1,4 +1,6 @@
 # Portfolio
+ ![Preview](images/lio.png)
+ ![Preview_2](images/lio2.png)
 
 ## What is it?
 
