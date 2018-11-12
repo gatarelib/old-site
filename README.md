@@ -1,3 +1,5 @@
+[![StyleCI](https://github.styleci.io/repos/141334427/shield?branch=master)](https://github.styleci.io/repos/141334427)
+
 # Portfolio
  ![Preview](images/lio.png)
  ![Preview_2](images/lio2.png)
