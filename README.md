@@ -1,4 +1,5 @@
 [![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)](http://gatarelib.github.io)
+[![](https://img.shields.io/uptimerobot/ratio/:monitorSpecificKey.svg)](gatarelib.github.io)
 [![StyleCI](https://github.styleci.io/repos/141334427/shield?branch=master)](https://github.styleci.io/repos/141334427)
 
 # Portfolio
