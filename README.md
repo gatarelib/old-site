@@ -1,7 +1,7 @@
 [![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)](http://gatarelib.github.io)
 [![](https://img.shields.io/uptimerobot/ratio/m781661606-8a3c6694887c15209dca0ff4.svg)](gatarelib.github.io)
 [![StyleCI](https://github.styleci.io/repos/141334427/shield?branch=master)](https://github.styleci.io/repos/141334427)
-
+[![](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)](https://twitter.com/LibereGatare)
 # Portfolio
  ![Preview](images/lio.png)
  ![Preview_2](images/lio2.png)
