@@ -25,7 +25,7 @@ If you have a problem or saw a bug. Please, create an issue explaning what happe
 
 ## Feedbacks
 
-I will be glad to listen any constructive feedback. Please, send an email to me: gatarelib@gmail.com
+I will be glad to listen any constructive feedback. Please, send an email to me: `gatarelib@gmail.com`
 
 ## License
 
