@@ -17,7 +17,7 @@ Clone the repository and move to the project folder.
 
 ## Usage
 
-If you are the cool guy, just execute the program at the project folder or go to the link provided at the top.
+If you are the cool guy, run `index.html` to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.
 
 ## Issues
 
