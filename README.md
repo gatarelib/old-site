@@ -13,7 +13,7 @@ Simple portfolio to show some brief information about me, my skills and Particip
 
 ## Installation
 
-Clone the repository and move to the project folder.
+Clone/download the repository and move to the project folder.
 
 ## Usage
 
