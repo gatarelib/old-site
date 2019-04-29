@@ -11,21 +11,21 @@
 
 Simple portfolio to show some brief information about me, my skills and Participated projects.
 
-## Installation
+## Getting Stated
 
 Clone/download the repository and move to the project folder.
 
-## Usage
+## Usage for 'Jimmy'
 
-If you are the cool guy, run `index.html` to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.
+Open `index.html` in your favorite browser to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.
 
 ## Issues
 
-If you have a problem or saw a bug. Please, create an issue explaning what happened, soon a developer will answer and solve the problem.
+If you have a problem or saw a bug. Please, create an issue explaning what happened, I promice to resolve the issue as quick as possible.
 
 ## Feedbacks
 
-I will be glad to listen any constructive feedback. Please, send an email to me: `gatarelib@gmail.com`
+I will be glad to listen any constructive feedback. Please, shoot an email to me: `gatarelib@gmail.com`
 
 ## License
 
