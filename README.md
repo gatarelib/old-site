@@ -17,11 +17,12 @@ Clone/download the repository and move to the project folder.
 
 ## Usage for 'Jimmy' 😅
 
-Open `index.html` in your favorite browser to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.
+Open `index.html` in your favorite browser to preview/edit the project at the `./`dir folder or go to the link provided at the top to preview it.    
+The '404.html' is a cool 'Page Not Found' page
 
 ## Issues
 
-If you have a problem or saw a bug. Please, create an issue explaning what happened, I promice to resolve the issue as quick as possible.
+If you have a problem or saw a bug. Please, create an issue explaining what happened, I promice to resolve the issue as quick as possible.
 
 ## Feedbacks
 
