@@ -9,9 +9,9 @@
 
 ## What is it?
 
-Simple portfolio to show some brief information about me, my skills and Participated projects.
+Simple portfolio to show some brief information about me, my skills and Projects.
 
-## Getting Stated
+## Getting Started
 
 Clone/download the repository and move to the project folder.
 
