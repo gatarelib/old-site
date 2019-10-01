@@ -22,9 +22,10 @@ The '404.html' is a cool 'Page Not Found' page
 
 ## Issues
 
-If you have a problem or saw a bug. Please, create an issue explaining what happened, I promice to resolve the issue as quick as possible.
+If you have a problem or see a bug. Please, create an issue explaining what happened, I promice to resolve the issue as quick as possible.
+Same goes for feature requests.
 
-## Feedbacks
+## Feedback
 
 I will be glad to listen any constructive feedback. Please, shoot an email to me: `gatarelib@gmail.com`
 
